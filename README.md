@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ankur Kumar,an undergrad from NIT Rourkela.
-- 👀 I’m interested in Tech, Economics and pshycology
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ankur Kumar, an Undergrad from NIT Rourkela.
+- 👀 I’m interested in Tech, Economics and Pshycology.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me ankurkumarmzn0131@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Everything around us is trying to teach us something, we just need to look at it from a different angle.
